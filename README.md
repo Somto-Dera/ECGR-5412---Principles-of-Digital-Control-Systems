@@ -1,4 +1,4 @@
-# ECGR-5412---Principles-of-Digital-Control-Systems
+# ECGR5412 --- Principles of Digital Control Systems
 ## Course Description:
 
 ## Course Topics:
